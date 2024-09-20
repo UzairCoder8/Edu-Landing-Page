@@ -1,0 +1,314 @@
+/* Reseting CSS */
+a {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
+body {
+    font-family: "Noto Serif", serif;
+}
+.btn-padding {
+    padding: 5px 20px;
+}
+.btn-demo {
+    padding: 5px 15px;
+}
+.navbar-brand {
+    font-size: 28px;
+}
+.col-md-7 img {
+    max-width: 99%;
+}
+.top-hero-content {
+    padding-top: 50px;
+}
+#campus-kit ,
+#mid-hero ,
+#top-icons {
+    margin: 100px 0;
+}
+#mid-content {
+    margin-bottom: 100px;
+}
+#top-icons {
+    background-color: #f5f9fc;
+}
+.row .col-md-3 i {
+    color: #848484;
+}
+.mid-hero-img img {
+    max-width: 86%;
+}
+.mid-cont {
+    position: absolute;
+    top: 101px;
+    right: 30px;
+}
+.mid-content {
+    position: relative;
+}
+.mid-boxes {
+    background-color: #f5f9fc;
+    position: relative;
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    transition: all 0.5s;
+}
+#mid-content {
+    margin-bottom: 200px;
+}
+.circle1 {
+    position: absolute;
+    top: 7px;
+    left: 7px;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background-color: #f1a501;
+}
+.heading {
+    padding-top: 100px;
+}
+.smal-circle {
+    position: absolute;
+    bottom: 7px;
+    right: 7px;
+    width: 35px;
+    height: 35px;
+    border-radius: 100%;
+    background-color: white;
+}
+.mid-boxes:hover {
+    cursor: pointer;
+    transform: scale(1.03);
+    background-color: aqua;
+}
+.mid-boxes:hover .smal-circle {
+    background-color: #1da599;
+}
+.circle2 {
+    position: absolute;
+    top: 7px;
+    left: 7px;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background-color: #1da599;
+}
+.circle3 {
+    position: absolute;
+    top: 7px;
+    left: 7px;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background-color: #3aa8fd;
+}
+.circle4 {
+    position: absolute;
+    top: 7px;
+    left: 7px;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background-color: #3aa8fd;
+}
+
+/* kit boxes */
+.campus-ki {
+    padding-bottom: 100px;
+    background-color: #f5f9fc;
+}
+.top-kit p {
+    font-size: 25px;
+    font-family: "Playfair Display", serif;
+}
+.kit-boxes {
+    background-color: #ffffff;
+    position: relative;
+    height: 280px;
+    width: 280px;
+    border-radius: 10px;
+    transition: all 0.5s;
+}
+#kit-content {
+    margin-bottom: 100px;
+}
+.circle1k {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background-color: #12a2b2;
+}
+.circle1k i {
+color: white;
+}
+.circle2k i {
+    color: white;
+    }
+    .circle3k i {
+        color: white;
+        }
+        .circle4k i {
+            color: white;
+            }
+.heading-k {
+    padding-top: 110px;
+}
+.small-circle-1k {
+    position: absolute;
+    bottom: 15px;
+    right:10px;
+    width: 35px;
+    height: 35px;
+    border-radius: 100%;
+    background-color: #e8fcfd;
+}
+.small-circle-1k i {
+    color: #81d0d9;
+}
+.small-circle-2k i {
+    color: #f9dfa8;
+}
+.small-circle-3k i {
+    color: #80badc;
+}
+.small-circle-4k i {
+    color: #ca73c1;
+}
+.kit-boxes:hover {
+    cursor: pointer;
+    transform: scale(1.03);
+    background-color: rgb(0, 255, 98);
+}
+.kit-boxes:hover .small-circle-k {
+    background-color: #1da599;
+}
+.circle2k {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background-color: #ffae2b;
+}
+.circle3k {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background-color: #3aa8fd;
+}
+.circle4k {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background-color: #b42dbf;
+}
+.small-circle-2k {
+    position: absolute;
+    bottom: 15px;
+    right:10px;
+    width: 35px;
+    height: 35px;
+    border-radius: 100%;
+    background-color: #f1a501;
+}
+.small-circle-3k {
+    position: absolute;
+    bottom: 15px;
+    right:10px;
+    width: 35px;
+    height: 35px;
+    border-radius: 100%;
+    background-color: #e0f4ff;
+}
+.small-circle-4k {
+    position: absolute;
+    bottom: 15px;
+    right:10px;
+    width: 35px;
+    height: 35px;
+    border-radius: 100%;
+    background-color: #ead7ed;
+}
+/* bottom here */
+
+.bottom-hero img {
+    max-width: 75%;
+    margin-left: 30px;
+}
+.bottom-hero-content {
+    padding-top: 220px;
+}
+.input-group button {
+background-color: #1da599;
+}
+.input-group button:hover {
+    background-color: rgb(28, 139, 151);
+}
+
+/* footer */
+
+.ofspace h2,h3 {
+font-family: "Playfair Display", serif;
+}
+.footer-haeding {
+font-family: "Playfair Display", serif;
+}
+.footer-circle {
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    background-color: #acacac;
+}
+.footer-circle i {
+    color: black;
+}
+#footer {
+    background-color: #212832;
+}
+#footer {
+    margin-top: 90px;
+}
+.footer-container {
+    padding-top: 80px;
+    padding-bottom: 100px;
+}
+#top-sect {
+    background-color: #fefefe;
+}
+.top-hero {
+    position: relative;
+}
+.top-hero-catchup {
+    padding-top: 15px;
+}
+.footer-circle:hover {
+cursor: pointer;
+background-color: white;
+}
+.mid-hero-cont {
+    padding-top: 90px;
+}
+footer a {
+    color: #bebebe;
+}
+footer a:hover {
+    color: white;
+    text-decoration: underline;
+}
+ul li .nave-link:hover {
+    color: white;
+}
